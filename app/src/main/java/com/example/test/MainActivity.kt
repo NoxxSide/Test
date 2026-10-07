@@ -15,7 +15,7 @@ import com.example.test.ui.theme.TestTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState) //коммент123456
+        super.onCreate(savedInstanceState) //коммент1234567
         enableEdgeToEdge()
         setContent {
             TestTheme {
